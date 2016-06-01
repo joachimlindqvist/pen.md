@@ -1,0 +1,23 @@
+// Place all the styles related to the Index controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+    padding: 1em;
+    font-family: 'Source Sans Pro', Arial, sans-serif;
+}
+
+textarea.writing-pad {
+    resize: none;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.render-pad {
+    font-size: 1.3em;
+    line-height: 1.5;
+}
+
+.pad-solo .col-xs-8 {
+    margin: 0 auto;
+    float: none;
+}
